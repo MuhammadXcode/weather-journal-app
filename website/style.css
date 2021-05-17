@@ -8,8 +8,8 @@ body{
     grid-auto-rows: minmax(150px, auto);
     /* grid-template-columns:  */
     height:100vh;
-    background: #f23557;
-    color: #f0d43a;
+    background: #41dce7;
+    color: #746d49;
     justify-content: center;
     grid-gap: 1em;
     font-size: 20px;
@@ -57,8 +57,8 @@ input{
     display:block;
     height: 60px;
     width: 320px;
-    background:#22b2da;
-    color: #f0d43a;
+    background:#087a99;
+    color: #eeedeb;
     font-size: 20px;
     font-family: 'Oswald', sans-serif;
     border: none;
